@@ -1,0 +1,5 @@
+ways to access a file
+
+fscanf - formatted file
+fgets - string based!
+fgetc/fputc - anything byte related (including reading 1 char at a time)
